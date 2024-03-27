@@ -1,0 +1,165 @@
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 500px;
+	min-height: 923px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	padding-bottom: 37px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u3867
+{
+	z-index: 2;
+	width: 560px;
+	margin-right: -10000px;
+	margin-top: -37px;
+	left: -30px;
+}
+
+#u3869-4
+{
+	z-index: 4;
+	width: 46px;
+	margin-right: -10000px;
+	margin-top: 203px;
+	left: 51px;
+}
+
+#u3870-4
+{
+	z-index: 8;
+	width: 46px;
+	margin-right: -10000px;
+	margin-top: 194px;
+	left: 114px;
+}
+
+#u3871-4
+{
+	z-index: 12;
+	width: 54px;
+	margin-right: -10000px;
+	margin-top: 203px;
+	left: 185px;
+}
+
+#u3872-4
+{
+	z-index: 16;
+	width: 46px;
+	margin-right: -10000px;
+	margin-top: 203px;
+	left: 271px;
+}
+
+#u3873-4
+{
+	z-index: 20;
+	width: 46px;
+	margin-right: -10000px;
+	margin-top: 203px;
+	left: 345px;
+}
+
+#u3874-4
+{
+	z-index: 24;
+	width: 62px;
+	margin-right: -10000px;
+	margin-top: 203px;
+	left: 410px;
+}
+
+#u270
+{
+	z-index: 28;
+	width: 281px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 319px;
+	left: -33px;
+}
+
+#u289
+{
+	z-index: 30;
+	width: 306px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 307px;
+	left: 267px;
+}
+
+#u282-15
+{
+	z-index: 31;
+	width: 306px;
+	min-height: 530px;
+	padding-bottom: 1px;
+	color: #FFFFFF;
+	font-family: Times, Times New Roman, Georgia, serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u282-2
+{
+	font-size: 40px;
+	text-align: center;
+}
+
+#u282-9
+{
+	font-size: 40px;
+	text-align: center;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u282-9  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.2;
+}
+
+#u282,#u282-3,#u282-5,#u282-7
+{
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u282-4,#u282-6,#u282-8
+{
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u282-13
+{
+	font-size: 16px;
+	text-align: left;
+	line-height: 1.7;
+	font-style: italic;
+}
+
+#u282-10,#u282-12
+{
+	font-style: normal;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
